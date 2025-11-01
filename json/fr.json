@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Panda Cub App",
+        "desc": "Application permettant de réduire facilement la taille et les dimensions des images aux formats JPG, PNG et WEBP.",
+        "id": "pandacub",
+        "link": "https://pandacub.app/"
+    },
+    {
+        "name": "Game of Life",
+        "desc": "Mise en œuvre de l'automate cellulaire connu sous le nom de jeu de la vie. Montre comment des règles simples peuvent générer une grande complexité.",
+        "id": "gol",
+        "link": "https://g-o-l.netlify.app/"
+    },
+    {
+        "name": "Restaurateur",
+        "desc": "Laissez le restaurant, le café, le bar et les propriétaires d'entreprises similaires ont une idée de la rentabilité de cette entreprise en relation avec sa taille et son mouvement.",
+        "id": "restaurateur",
+        "link": "https://projrestaurateur.netlify.app/"
+    }
+]

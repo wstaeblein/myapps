@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Panda Cub App",
+        "desc": "Application to easily reduce the size and even dimensions of images in JPG, PNG and WEBP formats.",
+        "id": "pandacub",
+        "link": "https://pandacub.app/"
+    },
+    {
+        "name": "Password Cat",
+        "desc": "Is your password easy to hack? Is it strong enough? Find out using this password strength meter",
+        "id": "passcat",
+        "link": "https://passwordcat.top/"
+    },
+    {
+        "name": "Game of Life",
+        "desc": "Implementation of the cellular automaton known as the game of life. Shows how simple rules can generate great complexity.",
+        "id": "gol",
+        "link": "https://g-o-l.netlify.app/"
+    },
+    {
+        "name": "Restaurateur",
+        "desc": "Let restaurant, café, bar and similar business owners have an idea of the profitability of such business in relation to its size and movement",
+        "id": "restaurateur",
+        "link": "https://projrestaurateur.netlify.app/"
+    }
+]
