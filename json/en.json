@@ -22,5 +22,11 @@
         "desc": "Let restaurant, café, bar and similar business owners have an idea of the profitability of such business in relation to its size and movement",
         "id": "restaurateur",
         "link": "https://projrestaurateur.netlify.app/"
+    },
+    {
+        "name": "MetaGen",
+        "desc": "Drive more traffic to your website by creating meta tags and web manifest correctly with this free and complete application.",
+        "id": "metagen",
+        "link": "https://metagen.top/"
     }
 ]

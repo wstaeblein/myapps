@@ -16,5 +16,11 @@
         "desc": "Laissez le restaurant, le café, le bar et les propriétaires d'entreprises similaires ont une idée de la rentabilité de cette entreprise en relation avec sa taille et son mouvement.",
         "id": "restaurateur",
         "link": "https://projrestaurateur.netlify.app/"
+    },
+    {
+        "name": "MetaGen",
+        "desc": "Générez plus de trafic vers votre site Web en créant correctement des balises méta et un manifeste Web avec cette application gratuite et complète.",
+        "id": "metagen",
+        "link": "https://metagen.top/"
     }
 ]

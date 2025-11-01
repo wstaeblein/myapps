@@ -34,5 +34,11 @@
         "desc": "Deixa empresários de restaurantes, cafés, bares e afins a ter uma ideia da lucratividade do negócio em relação ao seu tamanho e movimento.",
         "id": "restaurateur",
         "link": "https://projrestaurateur.netlify.app/"
+    },
+    {
+        "name": "MetaGen",
+        "desc": "Gere mais tráfego para o seu site criando meta tags e manifesto da web corretamente com este aplicativo gratuito e completo.",
+        "id": "metagen",
+        "link": "https://metagen.top/"
     }
 ]
