@@ -1,0 +1,134 @@
+{
+    "pt": [
+        {
+            "name": "Terra Incógnita",
+            "desc": "Blog sobre assuntos pouco discutidos da trajetória da nossa espécie, civilização e do mundo natural em geral.",
+            "id": "terrainc",
+            "link": "https://terraincognita.com.br"
+        },
+        {
+            "name": "Panda Cub App",
+            "desc": "Aplicativo para facilmente reduzir o tamanho e até as dimensões de imagens nos formatos JPG, PNG e WEBP.",
+            "id": "pandacub",
+            "link": "https://pandacub.app/"
+        },
+        {
+            "name": "Password Cat",
+            "desc": "Sua senha é fácil de hackear? É forte o suficiente? Descubra usando esse medidor de força de senhas",
+            "id": "passcat",
+            "link": "https://passwordcat.top/"
+        },
+        {
+            "name": "Planejamento.prof",
+            "desc": "Planejamento anual fácil e rápido, online e offline, para professores e docentes.",
+            "id": "planprof",
+            "link": "https://planejamentoprof.netlify.app"
+        },
+        {
+            "name": "Game of Life",
+            "desc": "Implementação da automação celular conhecida como o jogo da vida. Mostra como regras simples podem gerar grande complexidade. ",
+            "id": "gol",
+            "link": "https://g-o-l.netlify.app/"
+        },
+        {
+            "name": "Restaurateur",
+            "desc": "Deixa empresários de restaurantes, cafés, bares e afins a ter uma ideia da lucratividade do negócio em relação ao seu tamanho e movimento.",
+            "id": "restaurateur",
+            "link": "https://projrestaurateur.netlify.app/"
+        }
+    ],
+    "en": [
+        {
+            "name": "Panda Cub App",
+            "desc": "Application to easily reduce the size and even dimensions of images in JPG, PNG and WEBP formats.",
+            "id": "pandacub",
+            "link": "https://pandacub.app/"
+        },
+        {
+            "name": "Password Cat",
+            "desc": "Is your password easy to hack? Is it strong enough? Find out using this password strength meter",
+            "id": "passcat",
+            "link": "https://passwordcat.top/"
+        },
+        {
+            "name": "Game of Life",
+            "desc": "Implementation of the cellular automaton known as the game of life. Shows how simple rules can generate great complexity.",
+            "id": "gol",
+            "link": "https://g-o-l.netlify.app/"
+        },
+        {
+            "name": "Restaurateur",
+            "desc": "Let restaurant, café, bar and similar business owners have an idea of the profitability of such business in relation to its size and movement",
+            "id": "restaurateur",
+            "link": "https://projrestaurateur.netlify.app/"
+        }
+    ],
+    "es": [
+        {
+            "name": "Panda Cub App",
+            "desc": "Aplicación para reducir fácilmente el tamaño y las dimensiones de imágenes en formatos JPG, PNG y WEBP.",
+            "id": "pandacub",
+            "link": "https://pandacub.app/"
+        },
+        {
+            "name": "Password Cat",
+            "desc": "¿Es fácil hackear tu contraseña? ¿Es lo suficientemente segura? Descúbrelo con este medidor de seguridad de contraseñas",
+            "id": "passcat",
+            "link": "https://passwordcat.top/"
+        },
+        {
+            "name": "Game of Life",
+            "desc": "Implementación de la automatización celular conocida como el juego de la vida. Muestra cómo reglas simples pueden generar una gran complejidad.",
+            "id": "gol",
+            "link": "https://g-o-l.netlify.app/"
+        },
+        {
+            "name": "Restaurateur",
+            "desc": "Permite propietarios de restaurantes, cafeterías, bares, etc. tener una idea de la rentabilidad del negocio en relación con su tamaño y movimiento.",
+            "id": "restaurateur",
+            "link": "https://projrestaurateur.netlify.app/"
+        }
+    ],
+    "fr": [
+        {
+            "name": "Panda Cub App",
+            "desc": "Application permettant de réduire facilement la taille et les dimensions des images aux formats JPG, PNG et WEBP.",
+            "id": "pandacub",
+            "link": "https://pandacub.app/"
+        },
+        {
+            "name": "Game of Life",
+            "desc": "Mise en œuvre de l'automate cellulaire connu sous le nom de jeu de la vie. Montre comment des règles simples peuvent générer une grande complexité.",
+            "id": "gol",
+            "link": "https://g-o-l.netlify.app/"
+        },
+        {
+            "name": "Restaurateur",
+            "desc": "Laissez le restaurant, le café, le bar et les propriétaires d'entreprises similaires ont une idée de la rentabilité de cette entreprise en relation avec sa taille et son mouvement.",
+            "id": "restaurateur",
+            "link": "https://projrestaurateur.netlify.app/"
+        }
+    ],
+    "de": [
+        {
+            "name": "Panda Cub App",
+            "desc": "Anwendung zum einfachen Reduzieren der Größe und Abmessungen von Bildern in den Formaten JPG, PNG und WEBP.",
+            "id": "pandacub",
+            "link": "https://pandacub.app/"
+        },
+        {
+            "name": "Game of Life",
+            "desc": "Implementierung des zellulären Automaten, der als Spiel des Lebens bekannt ist. Zeigt, wie einfache Regeln große Komplexität erzeugen können.",
+            "id": "gol",
+            "link": "https://g-o-l.netlify.app/"
+        },
+        {
+            "name": "Restaurateur",
+            "desc": "Lassen Sie Restaurant, Café, Bar und ähnliche Geschäftsinhaber eine Vorstellung von der Rentabilität eines solchen Geschäfts in Bezug auf Größe und Bewegung haben.",
+            "id": "restaurateur",
+            "link": "https://projrestaurateur.netlify.app/"
+        }
+    ]         
+
+
+}
