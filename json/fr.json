@@ -22,5 +22,11 @@
         "desc": "Générez plus de trafic vers votre site Web en créant correctement des balises méta et un manifeste Web avec cette application gratuite et complète.",
         "id": "metagen",
         "link": "https://metagen.top/"
+    },
+    {
+        "name": "Charts2go",
+        "desc": "Créez rapidement et facilement des codes QR et des graphiques professionnels que vous pourrez utiliser dans tout type de document, de présentation ou d'e-mail.",
+        "id": "charts2go",
+        "link": "https://charts2go.top/"
     }
 ]
