@@ -7,7 +7,7 @@
     },
     {
         "name": "Panda Cub App",
-        "desc": "Aplicativo para facilmente reduzir o tamanho e até as dimensões de imagens nos formatos JPG, PNG e WEBP.",
+        "desc": "Aplicativo desktop para facilmente reduzir o tamanho, converter e redimensionar imagens. Suporta JPG, PNG, WEBP e mais 7 outros formatos.",
         "id": "pandacub",
         "link": "https://pandacub.app/"
     },
@@ -21,19 +21,19 @@
         "name": "Planejamento.prof",
         "desc": "Planejamento anual fácil e rápido, online e offline, para professores e docentes.",
         "id": "planprof",
-        "link": "https://planejamentoprof.netlify.app"
+        "link": "https://planejamento.wstaeblein.top/"
     },
     {
         "name": "Game of Life",
         "desc": "Implementação da automação celular conhecida como o jogo da vida. Mostra como regras simples podem gerar grande complexidade. ",
         "id": "gol",
-        "link": "https://g-o-l.netlify.app/"
+        "link": "https://life.wstaeblein.top/"
     },
     {
         "name": "Restaurateur",
         "desc": "Deixa empresários de restaurantes, cafés, bares e afins a ter uma ideia da lucratividade do negócio em relação ao seu tamanho e movimento.",
         "id": "restaurateur",
-        "link": "https://projrestaurateur.netlify.app/"
+        "link": "https://restaurateur.wstaeblein.top/"
     },
     {
         "name": "MetaGen",

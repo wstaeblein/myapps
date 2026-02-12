@@ -8,7 +8,7 @@
         },
         {
             "name": "Panda Cub App",
-            "desc": "Aplicativo para facilmente reduzir o tamanho e até as dimensões de imagens nos formatos JPG, PNG e WEBP.",
+            "desc": "Aplicativo desktop para facilmente reduzir o tamanho, converter e redimensionar imagens. Suporta JPG, PNG, WEBP e mais 7 outros formatos.",
             "id": "pandacub",
             "link": "https://pandacub.app/"
         },
@@ -22,7 +22,7 @@
             "name": "Planejamento.prof",
             "desc": "Planejamento anual de aulas e atividades, dia a dia, fácil e rápido, online e offline, para professores e docentes.",
             "id": "planprof",
-            "link": "https://planejamentoprof.netlify.app"
+            "link": "https://planejamento.wstaeblein.top/"
         },
         {
             "name": "Game of Life",
@@ -52,7 +52,7 @@
     "en": [
         {
             "name": "Panda Cub App",
-            "desc": "Application to easily reduce the size and even dimensions of images in JPG, PNG and WEBP formats.",
+            "desc": "Desktop application for easily reducing, converting, and resizing images. Supports JPG, PNG, WEBP, and 7 other formats.",
             "id": "pandacub",
             "link": "https://pandacub.app/"
         },
@@ -90,7 +90,7 @@
     "es": [
         {
             "name": "Panda Cub App",
-            "desc": "Aplicación para reducir fácilmente el tamaño y las dimensiones de imágenes en formatos JPG, PNG y WEBP.",
+            "desc": "Aplicación de escritorio para reducir, convertir y redimensionar imágenes fácilmente. Compatible con JPG, PNG, WEBP y otros 7 formatos.",
             "id": "pandacub",
             "link": "https://pandacub.app/"
         },
@@ -128,7 +128,7 @@
     "fr": [
         {
             "name": "Panda Cub App",
-            "desc": "Application permettant de réduire facilement la taille et les dimensions des images aux formats JPG, PNG et WEBP.",
+            "desc": "Application de bureau permettant de réduire, convertir et redimensionner facilement les images. Prend en charge les formats JPG, PNG, WEBP et 7 autres formats.",
             "id": "pandacub",
             "link": "https://pandacub.app/"
         },
