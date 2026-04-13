@@ -18,12 +18,30 @@
             background-color: #000007;
         }
 
+        .center {
+            width: 256px;
+            height: fit-content;
+            margin: 0;
+            padding: 0;
+            font-size: 0;
+            background-image: url(/img/logo.webp);
+            background-repeat: no-repeat;
+        }
+
+        .center > img {
+            backdrop-filter: blur(8px) saturate(1);      
+            padding: 5px 15px;
+            margin: -5px -15px;                  
+        }
+
         h2 {
             text-transform: uppercase;
             color: #1e7cd6;
             font-weight: bold;
             font-size: 40px;
             margin: 0;
+            text-align: center;
+
         }
 
         .center {
@@ -34,9 +52,9 @@
 <body>
     <div>
         <div class="center">
-            <img src="https://wstaeblein.github.io/myapps/img/icon-ws-256.webp" />
+            <img src="/img/logo.webp" />
         </div>
-        <h2>List of my apps</h2>
+        <h2>Apps' List</h2>
     </div>
     
 </body>
