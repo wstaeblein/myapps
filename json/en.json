@@ -70,5 +70,13 @@
         "bluesky": "https://bsky.app/profile/wstaeblein.bsky.social",
         "mastodon": "https://mastodon.social/@wstaeblein",
         "buymeacoffee": "https://buymeacoffee.com/wstaeblein"
+    },
+    "languages": {
+        "pt": "Português",
+        "en": "English",
+        "es": "Español",
+        "fr": "Français",
+        "de": "Deutsch",
+        "it": "Italiano"
     }
 }
