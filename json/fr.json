@@ -29,6 +29,12 @@
         "desc": "Créez rapidement et facilement des codes QR et des graphiques professionnels que vous pourrez utiliser dans tout type de document, de présentation ou d'e-mail.",
         "id": "charts2go",
         "link": "https://charts2go.top/"
+    },
+    {
+        "name": "Area Calc",
+        "desc": "Application permettant de calculer la surface des surfaces et le nombre de carreaux nécessaires pour les recouvrir, ainsi que les valeurs et les marges.",
+        "id": "areacalc",
+        "link": "https://areacalc.wstaeblein.top/"
     }
 ],
     "imgs": {

@@ -53,6 +53,12 @@
             "desc": "Tabela periódica dos elementos altamente interativa e responsiva. Perfeita para aulas e apresentações.",
             "id": "elementos",
             "link": "https://elementos.wstaeblein.top/"
+        },
+        {
+            "name": "Area Calc",
+            "desc": "App para calcular a área de superfícies e número de peças de revestimento para cobri-las além de valores e margens.",
+            "id": "areacalc",
+            "link": "https://areacalc.wstaeblein.top/"
         }
     ],
     "imgs": {

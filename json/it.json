@@ -5,6 +5,12 @@
             "desc": "Implementazione dell'automa cellulare noto come gioco della vita. Mostra come regole semplici possano generare una grande complessità.",
             "id": "gol",
             "link": "https://life.wstaeblein.top/"
+        },
+        {
+            "name": "Area Calc",
+            "desc": "Applicazione per calcolare l'area delle superfici e il numero di piastrelle necessarie per ricoprirle, nonché valori e margini.",
+            "id": "areacalc",
+            "link": "https://areacalc.wstaeblein.top/"
         }
 ],
     "imgs": {
